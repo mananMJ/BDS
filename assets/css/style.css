@@ -6328,6 +6328,8 @@ a.text-theme:hover,
 .header-logo {
   padding-top: 15px;
   padding-bottom: 15px;
+  height: 46px;
+  width: 194px;
   /* Extra small devices */
 }
 
